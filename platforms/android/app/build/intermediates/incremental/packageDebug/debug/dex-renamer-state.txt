@@ -1,0 +1,4 @@
+#Mon Nov 19 17:14:09 CST 2018
+base.0=C\:\\Users\\JAVION\\Documents\\project\\vueAPP\\platforms\\android\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+renamed.0=classes.dex
+file.0=C\:\\Users\\JAVION\\Documents\\project\\vueAPP\\platforms\\android\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0\\classes.dex
